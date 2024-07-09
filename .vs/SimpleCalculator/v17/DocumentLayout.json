@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\my visual studio\\SimpleCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8FB19B-6718-4D6D-A009-050D5304C234}|SimpleCalculator\\SimpleCalculator.csproj|d:\\my visual studio\\simplecalculator\\simplecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8FB19B-6718-4D6D-A009-050D5304C234}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8FB19B-6718-4D6D-A009-050D5304C234}|SimpleCalculator\\SimpleCalculator.csproj|D:\\my visual studio\\SimpleCalculator\\simplecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED8FB19B-6718-4D6D-A009-050D5304C234}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\my visual studio\\SimpleCalculator\\SimpleCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "SimpleCalculator\\Form1.cs",
+              "ToolTip": "D:\\my visual studio\\SimpleCalculator\\SimpleCalculator\\Form1.cs",
+              "RelativeToolTip": "SimpleCalculator\\Form1.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:44:03.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\my visual studio\\SimpleCalculator\\SimpleCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "SimpleCalculator\\Form1.cs",
+              "ToolTip": "D:\\my visual studio\\SimpleCalculator\\SimpleCalculator\\Form1.cs [Design]",
+              "RelativeToolTip": "SimpleCalculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:26:21.587Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
